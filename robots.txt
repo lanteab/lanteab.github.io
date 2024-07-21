@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lanteab.github.io/sitemap
+Sitemap: https://lanteab.github.io/app/sitemap
+Sitemap: https://lanteab.github.io/assets/sitemap
+Sitemap: https://lanteab.github.io/css/sitemap
+Sitemap: https://lanteab.github.io/includes/sitemap
+Sitemap: https://lanteab.github.io/item/sitemap
+Sitemap: https://lanteab.github.io/src/sitemap
